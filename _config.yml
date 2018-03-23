@@ -86,10 +86,10 @@ title: "Dieu-La-Cresse Lodge No. 4169" # Site name or title, also used in jekyll
 logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
-url: "https://bawejakunal.github.io" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/bawejakunal/bawejakunal.github.io"
+url: "https://ajmaxwello.github.io/dieu-la-cresse/" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/ajmaxwello/dieu-la-cresse"
 #disqus: ""
-avatarurl: "http://127.0.0.1:4000/assets/img/logo.png"
+avatarurl: "/assets/img/logo.svg"
 favicon: "/assets/img/logo.svg"
 
 # site verification
@@ -122,7 +122,3 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
 
 contact:
   email: secutary@dieu-la-cresse.org.uk
-
-columbia:
-  cs: http://www.cs.columbia.edu/
-  university: http://www.columbia.edu/
