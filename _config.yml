@@ -1,0 +1,128 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+- github-pages
+
+# 3. Gem settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+paginate: 8 # jekyll-paginate > items per page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # base url for jekyll mentions
+
+compress_html:
+  clippings: all
+
+twitter:
+  username: dieulacresse # jekyll-seo-tag > Owners twitter username
+
+author: Dieu-La-Cresse # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Dieu-La-Cresse # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/dieulacresse
+    - https://www.facebook.com/dieulacresse
+
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: /:categories/:title/  # define url construction
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 6. Site wide defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/img/logo.svg" # Default image for sharing
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: tag
+collections:
+  tag:
+      output: true
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Dieu-La-Cresse Lodge No. 4169" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
+
+# Site description and default description, also used in jekyll-seo-tag
+url: "https://bawejakunal.github.io" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/bawejakunal/bawejakunal.github.io"
+#disqus: ""
+avatarurl: "http://127.0.0.1:4000/assets/img/logo.png"
+favicon: "/assets/img/logo.svg"
+
+# site verification
+webmaster_verifications:
+  google: sCRGg28ReGiDdQ4JQ75b6RCTtmBD9J6QQwh1kpIMDAU
+
+# default markdown processor and highlighter
+markdown: kramdown
+highlighter: rouge
+error_mode: strict
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+  About: /about/
+  Contact: /contact/
+  FAQ: /faq/
+  Glossary: /glossary/
+  History: /history/
+  Join: /join/
+
+#site credits
+navigation_footer:
+  UGLE: https://www.ugle.org.uk
+
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  Twitter: "#1DA1F2"
+  facebook: "#3B5998"
+  
+
+contact:
+  email: secutary@dieu-la-cresse.org.uk
+
+columbia:
+  cs: http://www.cs.columbia.edu/
+  university: http://www.columbia.edu/
