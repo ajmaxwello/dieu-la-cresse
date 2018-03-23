@@ -63,7 +63,7 @@ defaults:
       type: pages
     values:
       layout: page # Default layout
-      image: {{site.url}}"/assets/img/logo.svg" # Default image for sharing
+      image: "/assets/img/logo.svg" # Default image for sharing
 
   - scope:
       path: ""
@@ -83,7 +83,8 @@ collections:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "Dieu-La-Cresse Lodge No. 4169" # Site name or title, also used in jekyll-seo-tag
-logo: {{site.url}}"/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
+baseurl: /dieu-la-cresse
 
 # Site description and default description, also used in jekyll-seo-tag
 url: "https://ajmaxwello.github.io/dieu-la-cresse/" # Site url, also used in jekyll-seo-tag
