@@ -106,12 +106,12 @@ error_mode: strict
 # 8. Site navigation
 navigation_header:
   Home: /
-  About: /about/
+  Join: /join/
   Contact: /contact/
   FAQ: /faq/
   Glossary: /glossary/
   History: /history/
-  Join: /join/
+
 
 #site credits
 navigation_footer:
@@ -123,4 +123,4 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   
 
 contact:
-  email: secutary@dieu-la-cresse.org.uk
+  email: secretary_4169@yahoo.com
