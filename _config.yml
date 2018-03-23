@@ -91,7 +91,7 @@ repo: "https://github.com/ajmaxwello/dieu-la-cresse"
 baseurl: "/dieu-la-cresse"
 
 #disqus: ""
-avatarurl: "/assets/img/logo.svg"
+avatarurl: "/assets/img/logo.png"
 favicon: "/assets/img/logo.svg"
 
 # site verification
