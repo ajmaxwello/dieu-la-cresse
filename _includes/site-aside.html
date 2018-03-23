@@ -11,7 +11,7 @@
 
     {% if page.collection == "posts" or page.collection == "tag"
     or paginator.posts %}
-        {% include button.html text="Subscribe" icon="rss" link="/feed.xml" %}
+        {% include button.html text="Subscribe" icon="rss" link="{{ site.baseurl }}/feed.xml" %}
     {% endif %}
 
     {% include nav-social.html %}
