@@ -1,7 +1,8 @@
 ---
 title: Why Join Dieu La Cresse Lodge?
 layout: page
-feature_image: https://dieulacresse.files.wordpress.com/2017/12/cropped-bg-img-5.jpg
+image: https://c2.staticflickr.com/4/3762/12170758164_16f57b64aa_b.jpg
+feature_text: <h2 class="whitetext highlighted">Why Join Dieu-La-Cresse Lodge?</h2>
 permalink: /become-a-member/
 ---
 
