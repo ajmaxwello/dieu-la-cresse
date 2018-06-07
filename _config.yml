@@ -107,6 +107,7 @@ error_mode: strict
 navigation_header:
   Home: /
   Membership: /become-a-member/
+  History: /history/
   Contact: /contact/
 
 #site credits
