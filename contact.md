@@ -15,9 +15,9 @@ Telephone us on:
 
 01782 411630
 
-<!-- Or fill in the form below -->
+Or fill in the form below
 
 We look forward to hearing from you.
 
-<!-- {% include site-form.html %} -->
+{% include site-form.html %}
 
