@@ -25,6 +25,6 @@
 	var email = "{{ site.email | split: '' | reverse | join: '' }}";
 	var unraveledEmail = "{{ site.email }}"
 	var form = document.querySelector(".contact-form");
-		form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
+		form.setAttribute("action", "http://formspree.io/" + unraveledEmail);
 </script>
 <noscript>Please enable JavaScript to use the form.</noscript>
