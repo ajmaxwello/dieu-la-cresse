@@ -1,7 +1,7 @@
 ---
 title: Why Join Dieu La Cresse Lodge?
 layout: page
-image: https://c2.staticflickr.com/4/3762/12170758164_16f57b64aa_b.jpg
+image: "/assets/roaches.jpg"
 feature_text: <h2 class="whitetext highlighted">Why Join Dieu-La-Cresse Lodge?</h2>
 permalink: /become-a-member/
 ---
