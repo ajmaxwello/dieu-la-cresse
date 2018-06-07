@@ -86,7 +86,7 @@ title: "Dieu-La-Cresse Lodge No. 4169" # Site name or title, also used in jekyll
 logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
-url: "https://ajmaxwello.github.io/dieu-la-cresse/" # Site url, also used in jekyll-seo-tag
+url: "http://dieu-la-cresse.o.uk" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/ajmaxwello/dieu-la-cresse"
 baseurl: "/dieu-la-cresse"
 
