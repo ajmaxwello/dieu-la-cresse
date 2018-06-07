@@ -113,7 +113,7 @@ navigation_header:
 #site credits
 navigation_footer:
   UGLE: https://www.ugle.org.uk
-  PGL Staffordshire: https://www.pglstaffordshire.co.uk/
+  PGL Staffordshire: http://www.pglstaffordshire.co.uk/
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"
