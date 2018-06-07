@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History of Dieu La Cresse Lodge
-feature_image: /assets/img/roaches.jpg
+image: /assets/img/roaches.jpg
 feature_text: <h2 class="whitetext highlighted">History of Dieu-La-Cresse Lodge No. 4169</h2>
 permalink: /history/
 ---
