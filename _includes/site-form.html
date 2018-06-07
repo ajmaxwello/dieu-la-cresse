@@ -23,7 +23,7 @@
 </div>
 <script>
 	var email = "{{ site.email | split: '' | reverse | join: '' }}";
-	var unraveledEmail = email.split("").reverse().join("");
+	var unraveledEmail = "{{ site.email }}"
 	var form = document.querySelector(".contact-form");
 		form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
 </script>
