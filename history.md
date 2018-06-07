@@ -1,7 +1,7 @@
 ---
 title: History of Dieu La Cresse Lodge
 layout: page
-feature_image: https://dieulacresse.files.wordpress.com/2017/12/cropped-bg-img-5.jpg
+feature_image: /assets/img/roaches.jpg
 permalink: /history/
 ---
 
