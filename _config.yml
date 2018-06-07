@@ -88,7 +88,7 @@ logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
 # Site description and default description, also used in jekyll-seo-tag
 url: "http://dieu-la-cresse.o.uk" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/ajmaxwello/dieu-la-cresse"
-baseurl: "/dieu-la-cresse"
+baseurl: ""
 
 #disqus: ""
 avatarurl: "/assets/img/logo.svg"
