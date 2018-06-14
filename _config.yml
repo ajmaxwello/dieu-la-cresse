@@ -96,7 +96,7 @@ favicon: "/assets/img/logo.svg"
 
 # site verification
 webmaster_verifications:
-  google: sCRGg28ReGiDdQ4JQ75b6RCTtmBD9J6QQwh1kpIMDAU
+  google:
 
 # default markdown processor and highlighter
 markdown: kramdown
