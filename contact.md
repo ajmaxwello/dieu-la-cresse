@@ -12,12 +12,12 @@ If you are interested in joining our Lodge, or simply wish to know more,you can
 Email us at: secretary_4169@yahoo.com
 
 Write to us at:
-Secutary
-Dieu-La-Cresse Lodge No. 4169
-Leek Masonic Hall
-King Street
-Leek 
-Staffordshire
+Secutary,
+Dieu-La-Cresse Lodge No. 4169,
+Leek Masonic Hall,
+King Street,
+Leek,
+Staffordshire.
 ST13 5NY
 
 Or fill in the form below
