@@ -2,22 +2,22 @@
 title: Contact Us
 layout: page
 image: /assets/img/LeekMasonicHall.jpg
-feature_text: <h2 class="whitetext highlighted">Contact Dieu-La-Cresse Lodge No. 4169</h2>
+feature_text: <h1 class="whitetext highlighted">Contact Dieu-La-Cresse Lodge No. 4169</h1>
 permalink: /contact/
 ---
-# Contact Us
+## Contact Us
 
 If you are interested in joining our Lodge, or simply wish to know more,you can
 
 Email us at: secretary_4169@yahoo.com
 
-Write to us at:
-Secretary,  
-Dieu-La-Cresse Lodge No. 4169,  
-Leek Masonic Hall,  
-King Street,  
-Leek,  
-Staffordshire Moorlands.  
+Write to us at:  
+Secretary  
+Dieu-La-Cresse Lodge No. 4169  
+Leek Masonic Hall  
+King Street  
+Leek  
+Staffordshire Moorlands  
 ST13 5NY  
 
 Or fill in the form below

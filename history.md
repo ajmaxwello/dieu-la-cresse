@@ -2,11 +2,11 @@
 layout: page
 title: History of Dieu La Cresse Lodge
 image: /assets/img/roaches.jpg
-feature_text: <h2 class="whitetext highlighted">History of Dieu-La-Cresse Lodge No. 4169</h2>
+feature_text: <h1 class="whitetext highlighted">History of Dieu-La-Cresse Lodge No. 4169</h1>
 permalink: /history/
 ---
 
-# Where Did We Get Our Name From?
+## Where Did We Get Our Name From?
 
 For those of you who are interested, we got our name from, Dieulacres Abbey which was situated on the outskirts of Leek. It was originally established at Poulton in Cheshire, but moved to Leek in 1214
 
