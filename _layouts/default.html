@@ -17,6 +17,7 @@ layout: compress
 {% endif %}
 {% include site-favicons.html %}
 {% feed_meta %}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 </head>
 <body>
 {% include site-icons.svg %}

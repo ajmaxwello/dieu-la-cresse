@@ -82,10 +82,11 @@ collections:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Dieu-La-Cresse Lodge No. 4169" # Site name or title, also used in jekyll-seo-tag
+title: "Dieu-La-Cresse Lodge No. 4169 - Freemasonary Leek" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
+description: A Masonic Lodge located in the Market Town of Leek, in the Staffordshire Moorlands. We belong to the Masonic Province of Staffordshire.
 url: "http://dieu-la-cresse.co.uk" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/ajmaxwello/dieu-la-cresse"
 baseurl: ""
