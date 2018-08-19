@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Dieu-La-Cresse Lodge No. 4169
+title: Dieu-La-Cresse Lodge No. 4169 - Leek
 feature_text: <h2 class="whitetext highlighted">Dieu-La-Cresse Lodge No. 4169</h2>
 image: https://c2.staticflickr.com/4/3762/12170758164_16f57b64aa_b.jpg
+description: Freemason Lodge located in the Market Town of Leek, in the Staffordshire Moorlands.
 ---
  
 ## Welcome to Dieu La Cresse Lodge 
