@@ -12,6 +12,12 @@ We are a Masonic Lodge located in the Market Town of Leek, in the Staffordshire 
 
 We belong to the Masonic Province of Staffordshire.
 
+We are proud to be part of the global family of Freemasons.
+Freemasonry is one of the world’s oldest and largest non-religious, non-political, fraternal and charitable organisation. 
+It teaches self-knowledge through participation in a progression of ceremonies. 
+Members are expected to be of high moral standing and are encouraged to speak openly about Freemasonry.
+
+
 ## Location
 We meet at:
 Leek Masonic Hall,
