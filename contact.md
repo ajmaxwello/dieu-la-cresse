@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-layout: page
+layout: home
 image: /assets/img/LeekMasonicHall.jpg
 feature_text: <h1 class="whitetext highlighted">Contact Dieu-La-Cresse Lodge No. 4169</h1>
 permalink: /contact/
