@@ -20,9 +20,5 @@ Leek
 Staffordshire Moorlands  
 ST13 5NY  
 
-Or fill in the form below
-
 We look forward to hearing from you.
-
-{% include site-form.html %}
 
