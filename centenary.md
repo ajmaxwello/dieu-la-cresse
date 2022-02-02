@@ -8,7 +8,9 @@ permalink: /centenary/
 
 ## Dieu-La-Cresse Centerary Celebration
 
-On Monday 8th November 2021, the Provincial Grand Master Rt. W. Bro. John Lockley together with several Provincial officers attended Dieu-La-Cresse Lodge at Leek Masonic Hall to finally celebrate with the members and guests the centenary of the Lodge. The centenary was originally due to be held in November 2020, but due to the Covid Pandemic like most events and functions everything was placed on hold. 
+On Monday 8th November 2021, the Provincial Grand Master Rt. W. Bro. John Lockley together with several Provincial officers attended Dieu-La-Cresse Lodge at Leek Masonic Hall to finally celebrate with the members and guests the centenary of the Lodge. The centenary was originally due to be held in November 2020, but due to the Covid Pandemic like most events and functions everything was placed on hold.
+
+![Provincial Grand Master Rt. W. Bro. John Lockley and Worshipful Master](/assets/img/PGMandWM.jpg)
 
 The Dieu-La-Cresse consecration meeting was held at 3.30pm on Saturday 2nd October 1920 at Leek Town Hall, followed by the Festive Board at the Black Swan Inn, Leek. The idea of a second Lodge at Leek is to be found in the minutes of St Edwards Lodge No: 966, their Worshipful Master at the time being W. Bro Chell. A petition was drawn up to form a new lodge and in May 1920, brethren from St Edwards Lodge signed a petition and Lord Dartmouth the Provincial Grand Master duly signed the recommendation. 
 
