@@ -9,7 +9,7 @@ permalink: /contact/
 
 If you are interested in joining our Lodge, or simply wish to know more,you can
 
-Email us at: secretary_4169@yahoo.com
+Email us at: secretary_4169@aol.com
 
 Write to us at:  
 Secretary  
